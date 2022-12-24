@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/igarb0/static/css/main.7a6aaa3d.css",
+    "main.js": "/igarb0/static/js/main.01b1b37d.js",
+    "static/media/video.mp4": "/igarb0/static/media/video.e35b7ed0a6cef42fa777.mp4",
+    "static/media/nocomplain.gif": "/igarb0/static/media/nocomplain.149f66bef0bc00466840.gif",
+    "static/media/hash2.PNG": "/igarb0/static/media/hash2.f586609806c8a7963838.PNG",
+    "static/media/veri2.gif": "/igarb0/static/media/veri2.17bbb12f41b366ee703f.gif",
+    "static/media/sweepsin.png": "/igarb0/static/media/sweepsin.50c03ddd5b14ba36ec73.png",
+    "static/media/reg.png": "/igarb0/static/media/reg.9b84b07320f5151ee9b6.png",
+    "static/media/back.png": "/igarb0/static/media/back.31103fde8295a74c9be1.png",
+    "static/media/lgin.png": "/igarb0/static/media/lgin.0fbdfacfe57331576748.png",
+    "static/media/hase2.PNG": "/igarb0/static/media/hase2.ed221f87cd1cf599a66c.PNG",
+    "static/media/bg1.jpg": "/igarb0/static/media/bg1.c07274e4cec734376739.jpg",
+    "static/media/verification.gif": "/igarb0/static/media/verification.1b17aa0bf45fa093ac66.gif",
+    "static/media/sin.png": "/igarb0/static/media/sin.5a626ffc9a2fbacc07b8.png",
+    "static/media/sweeper2.jpg": "/igarb0/static/media/sweeper2.355e13466f1e6d0a0f00.jpg",
+    "static/media/back.svg": "/igarb0/static/media/back.a3a03dc8d87fa1a8749ec1b7862883ed.svg",
+    "static/media/contact1.png": "/igarb0/static/media/contact1.e552482e50246863086f.png",
+    "static/media/1.jpg": "/igarb0/static/media/1.34eedf58c0876517e858.jpg",
+    "static/media/4.jpg": "/igarb0/static/media/4.3ddf28ab435770c6d69f.jpg",
+    "static/media/3.jpg": "/igarb0/static/media/3.07e357f51e1b86d9e741.jpg",
+    "static/media/2.jpg": "/igarb0/static/media/2.0c06e43dc16bee6cdfed.jpg",
+    "static/media/5.jpg": "/igarb0/static/media/5.3e55ee5f667d94054da3.jpg",
+    "static/media/6.jpg": "/igarb0/static/media/6.edefb235566ed72a7429.jpg",
+    "index.html": "/igarb0/index.html",
+    "main.7a6aaa3d.css.map": "/igarb0/static/css/main.7a6aaa3d.css.map",
+    "main.01b1b37d.js.map": "/igarb0/static/js/main.01b1b37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6aaa3d.css",
+    "static/js/main.01b1b37d.js"
+  ]
+}
