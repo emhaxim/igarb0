@@ -1,17 +1,22 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
+import 'core-js'
+import { BrowserRouter } from 'react-router-dom';
 import './index.css';
+import './styles/whole.css'
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import '@coreui/coreui/dist/css/coreui.min.css';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKItogtwesSMJO9Zi5uYZO5j_zEGXDW24&libraries=places&callback=initMap"async></script>
+
+ReactDOM.render(
+  <BrowserRouter>
     <App />
-  </React.StrictMode>
+  </BrowserRouter>,
+  document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+

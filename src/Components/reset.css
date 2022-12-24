@@ -1,0 +1,35 @@
+.title-text p{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    color: #009666;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+}
+.title-text p::after{
+    content: '';
+    width: 60px;
+    height: 35px;
+    background: linear-gradient(#009611,#fff);
+    position: absolute;
+    top: -26px;
+    left: 0;
+    z-index: -1;
+    transform: rotate(10deg);
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+.title-text h1{
+    font-size: 50px;
+    font-family: 'Nova Flat', cursive;
+}
+
+.title-text{
+	margin-top: 60px;
+	background-color: #efefef;
+}
+
+
+

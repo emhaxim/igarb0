@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+ npm install -g
+
 # production
 /build
 
